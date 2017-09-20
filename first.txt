@@ -1,8 +1,1 @@
-first
-second
-first
-second
-first
-second
-hii
-hello
+hii hello
